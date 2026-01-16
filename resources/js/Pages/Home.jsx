@@ -85,7 +85,7 @@ export default function Home({ users, flash }) {
                     ))
                     ) : (
                     <tr>
-                        <td colSpan="3" className="text-center">
+                        <td colSpan="5" className="text-center">
                         No users found
                         </td>
                     </tr>
